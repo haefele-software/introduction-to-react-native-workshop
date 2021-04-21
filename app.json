@@ -1,0 +1,12 @@
+{
+  "name": "react-native-the-breakdown-workshop-source",
+  "displayName": "react-native-the-breakdown-workshop-source",
+  "expo": {
+    "name": "react-native-the-breakdown-workshop-source",
+    "slug": "react-native-the-breakdown-workshop-source",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
