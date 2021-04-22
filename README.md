@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [🎯 Goals](#goals)
+* * [⚡ Get Started](#get-started)
 
 ## 🎯 Goals
 
@@ -13,3 +14,22 @@
 - Undestand what Expo is
 - Review some of the required libraries to have a working React Native application
 - Build a simple view to demonstrate the React Native components
+
+## ⚡ Get Started
+
+### Clone Repo
+```
+# clone the repo
+$ git clone git@github.com:haefele-software/introduction-to-react-native-workshop.git
+
+# navigate to the folder
+$ cd introduction-to-react-native-workshop
+```
+
+### Install
+```
+# install the dependencies
+$ npm i
+# start the application
+$ expo start --web
+```
